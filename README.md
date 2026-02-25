@@ -1,1 +1,2 @@
-# greenfarm.github.io
+# FARMING-EDUCATIONAL-PLATFORM
+It is a gamified farming Educational  platform created under a hackathon event (WEB-A-THON 2.0) At Lovely professional university.
