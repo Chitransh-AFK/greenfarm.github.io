@@ -1,2 +1,4 @@
 # FARMING-EDUCATIONAL-PLATFORM
-It is a gamified farming Educational  platform created under a hackathon event (WEB-A-THON 2.0) At Lovely professional university.
+Dummy Website Page Structure made around ezucating 📖😋 future farmers and agriculture students.
+
+(just made the front-end lol security goes brrrrrrrrrrrr)
